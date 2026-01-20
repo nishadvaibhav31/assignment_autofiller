@@ -1,0 +1,30 @@
+body {
+    width: 300px;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+}
+input, textarea {
+    width: 100%;
+    padding: 6px;
+    margin-top: 4px;
+    box-sizing: border-box;
+}
+button {
+    width: 100%;
+    margin-top: 15px;
+    padding: 8px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#status {
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+}
